@@ -3,10 +3,10 @@
   --base-font: 1.6rem;
   --fw-normal: 400;
   --fw-bold: 700;
-  --img-bg: url("../assets/images/bg-desktop-dark.jpg");
+  --img-bg: url("./assets/images/bg-desktop-dark.jpg");
   --clr-primary: hsl(0, 0%, 98%);
   --clr-white: hsl(0, 0%, 100%);
-  --clr-page-bg: hsl(235, 21%, 11%);
+  --clr-page-bg: hsl(234, 20%, 20%);
   --clr-card-bg: hsl(235, 24%, 19%);
   --clr-blue: hsl(220, 98%, 61%);
   --clr-green: hsl(192, 100%, 67%);
@@ -23,7 +23,7 @@
 /* CHANGE CUSTOM PROPERTIES WHEN LIGHT THEME */
 
 body.light {
-  --img-bg: url("../assets/images/bg-desktop-light.jpg");
+  --img-bg: url("./assets/images/bg-desktop-light.jpg");
   --clr-primary: hsl(243, 12%, 30%);
   --clr-page-bg: hsl(0, 0%, 98%);
   --clr-card-bg: hsl(0, 0%, 100%);
